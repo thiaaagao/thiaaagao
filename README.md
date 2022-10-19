@@ -8,7 +8,11 @@
 
 🌱 Tools and Tech's 🌱
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+
+
+
+
+<img src="https://icongr.am/devicon/html5-original.svg?size=30&color=ffffff" width="40" height="40" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> 
 
