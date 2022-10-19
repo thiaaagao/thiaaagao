@@ -6,6 +6,8 @@
 
 <h1> 👋 I'm Thiago Rodrigues .</h1>
 
+#
+
 🌱 Tools and Tech's 🌱
 
 <div>
@@ -18,6 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="40" height="40" />
 </div>                   
 
+#
 
 💞️ I'm currently learning JavaScript with Framework React ! 💞️
 
@@ -27,18 +30,7 @@
 </div>
 
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+
 
 📫 Contact me 📫
 
