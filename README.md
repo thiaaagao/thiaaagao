@@ -40,7 +40,7 @@
 
 <div>
 <a href="https://www.linkedin.com/in/rdes-thiago201/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
 </a>
 
 <a href="mailto:rdes.thiago@gmail.com">
