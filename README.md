@@ -4,8 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
+#
+ 
 <h1> 👋 I'm Thiago Rodrigues .</h1>
 <p> Front-end Develop. Jr. </p>
+
 #
 
 🌱 Tools and Tech's 🌱
