@@ -1,57 +1,49 @@
-<!-- - 👋 Hi, I’m @thiaaagao
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
+<h1 align="left">Welcome to my profile! 👋</h1>
 
-#
- 
-<h1> 👋 I'm Thiago Rodrigues .</h1>
-<p> Front-end Develop. Jr. </p>
+###
 
-#
+<p align="left">My name is Thiago Rodrigues and I'm a Front end developer</p>
 
-🌱 Tools and Tech's 🌱
+###
 
-<div>
+<h2 align="left">About me</h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+###
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> 
+<p align="left">✨ Bugging flexbox since 1998<br>📚 I'm currently learning: JavaScript<br>🎯 Goals: Learn Angular<br>🎲 Fun fact: I love cat's and can't drink coffee (i love coffee)</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" />
+###
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="40" height="40" />
-                    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-          
-</div>                   
+<h2 align="left">💻 I code with</h2>
 
-#
+###
 
-💞️ I'm currently learning JavaScript with Framework React ! 💞️
-
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />          
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
 </div>
 
-#
+###
 
+<h2 align="left">✨ Design Techs</h2>
 
-📫 Contact me 📫
+###
 
-<div>
-<a href="https://www.linkedin.com/in/rdes-thiago201/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-</a>
-
-<a href="mailto:rdes.thiago@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" width="40" height="40" />         
-</a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" width="52" alt="aftereffects logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
 </div>
 
-<div>
-  
+###
+
+<h2 align="left">Song's 🎵</h2>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/thiagosilvabr">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=thiagosilvabr" alt="Spotify recently played" align="left"  />
+  </a>
 </div>
-          
+
+###
