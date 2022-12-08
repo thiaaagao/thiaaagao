@@ -37,9 +37,16 @@
   <a href="https://www.behance.net/thiagosilva79"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" width="52" alt="Behance logo"/></a>
 </div>
 
+###
 
-   
+<h2 align="left">📧 Meet</h2>
 
+###
+
+<div align="left">
+    <a href="https://www.linkedin.com/in/rdes-thiago201/>"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  /></a>
+   <a href="mailto:rdes.thiago@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="52" alt="google logo"  /></a>
+</div>
 
 ###
 
