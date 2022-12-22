@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Bugging flexbox since 1998<br>📚 I'm currently learning: JavaScript<br>🎯 Goals: Learn Js and Reactjs<br>🎲 Fun fact: I love cat's and can't drink coffee (i love coffee)</p>
+<p align="left">✨ Bugging flexbox since 1998<br>📚 I'm currently learning: JavaScript<br>🎯 Goals: Learn Js and Reactjs<br>🎲 Fun fact: I love cat's and I play Magic: The Gathering</p>
 
 ###
 
