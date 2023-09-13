@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Thiago Rodrigues and I'm a Front end developer</p>
+<p align="left">My name is Thiago Rodrigues and I'm a Developer Jr. </p>
 
 ###
 
