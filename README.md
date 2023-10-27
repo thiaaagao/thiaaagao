@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Bugging flexbox since 1998<br>📚 I'm currently learning: Ruby & RoR (On Rails)<br>🎯 Goals: Full stack Developer Jr<br>🎲 Fun fact: I love cat's and I play Magic: The Gathering</p>
+<p align="left">✨ Bugging flexbox since 1998<br>📚 I'm currently learning: Vue 3 <br>🎯 Goals: Full stack Developer Jr<br>🎲 Fun fact: I love cat's and I play Magic: The Gathering</p>
 
 ###
 
