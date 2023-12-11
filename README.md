@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd885218c-b787-46e8-943c-e0b3d39184cd_786x500.gif"  />
+  <img height="150" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd885218c-b787-46e8-943c-e0b3d39184cd_786x500.gif" autoplay  />
 </div>
 
 ###
@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey! What's Up 👋</h1>
 
 ###
 
