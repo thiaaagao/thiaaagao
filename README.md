@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Thiago Rodrigues and I'm a Developer Jr. </p>
+<p align="left">My name is Thiago Rodrigues and I'm Software Engineer Jr. </p>
 
 ###
 
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Css%203-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="logo-css3" />
   <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="logo-javascript" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="logo-linux" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" alt="logo-notion" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </div>
 
 ###
