@@ -62,7 +62,7 @@
 
 ####
 
-<h3 align="left">👨‍💻 Current:<br>- Front-end Jr.<br>- System Analyst<br>- Entrepreneur Asatech<br><br>🎯 Goals:<br>- Fullstack Developer<br>- Bug Bounter<br><br>🟢 Job:<br>- I'm Open to Work</h3>
+<h3 align="left">👨‍💻 Current:<br>- Front-end Jr.<br>- Cybersecurity<br>- Entrepreneur Asatech<br><br>🎯 Goals:<br>- Fullstack Developer<br>- Bug Bounter<br><br>🟢 Job:<br>- I'm Open to Work</h3>
 
 ###
 
