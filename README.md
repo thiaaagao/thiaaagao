@@ -60,12 +60,3 @@
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
 </div>
 
-####
-
-<h3 align="left">👨‍💻 Current:<br>- Front-end Jr.<br>- Cybersecurity<br>- Entrepreneur Asatech<br><br>🎯 Goals:<br>- Fullstack Developer<br>- Bug Bounter<br><br>🟢 Job:<br>- I'm Open to Work</h3>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=thiaaagao.thiaaagao&"  />
-
-###
