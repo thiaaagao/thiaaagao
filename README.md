@@ -20,6 +20,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python3" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
 </div>
 
