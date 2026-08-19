@@ -74,13 +74,13 @@ Experiência sólida em suporte N1/N2, infraestrutura de redes, IAM (Active Dire
 
 - **[Fã Site Cyberpunk TCG](https://github.com/thiaaagao)** — React.js · em andamento
 - **[AsaTech TI Landing Page](https://github.com/thiaaagao)** — Vue.js + Vite
-- **[Auto-Oferta](https://github.com/thiaaagao)** — Bot de afiliados: scraping Mercado Livre → Telegram
+
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=thiaaagao&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaaagao&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thiaaagao&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaaagao&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </div>
