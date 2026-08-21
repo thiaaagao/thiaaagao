@@ -26,9 +26,9 @@ Profissional de TI com **Pós-Graduação em Segurança da Informação** e **Ba
 Experiência sólida em suporte N1/N2, infraestrutura de redes, IAM (Active Directory, Azure AD), monitoramento (Zabbix, Grafana, PRTG) e segurança de endpoints. Também atuo como PJ pela **Bará Tech**, prestando consultoria, desenvolvimento web e automações com IA para pequenos negócios na Região Metropolitana da Bahia.
 
 - 🔐 Estudando: **CompTIA Security+**, **eJPT** e **Microsoft SC-900**
-- ☁️ Certificado **Google Cloud** · **Google Workspace Admin**
+- 🤖 Brinco e faço algumas coisinhas bem legais com algumas LLM's
 - 🤖 Automações com Python, JavaScript e integração de APIs
-- 📍 Camaçari, Bahia — Brasil
+- 📍 Camaçari, Bahia — Brasil (Atualmente)
 
 ---
 
