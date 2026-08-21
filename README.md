@@ -23,7 +23,7 @@
 
 Profissional de TI com **Pós-Graduação em Segurança da Informação** e **Bacharelado em Sistemas de Informação**, em transição para **Cybersecurity**.
 
-Experiência sólida em suporte N1/N2, infraestrutura de redes, IAM (Active Directory, Azure AD), monitoramento (Zabbix, Grafana, PRTG) e segurança de endpoints. Também atuo como PJ pela **AsaTech TI**, prestando consultoria, desenvolvimento web e automações com IA para pequenos negócios na Região Metropolitana da Bahia.
+Experiência sólida em suporte N1/N2, infraestrutura de redes, IAM (Active Directory, Azure AD), monitoramento (Zabbix, Grafana, PRTG) e segurança de endpoints. Também atuo como PJ pela **Bará Tech**, prestando consultoria, desenvolvimento web e automações com IA para pequenos negócios na Região Metropolitana da Bahia.
 
 - 🔐 Estudando: **CompTIA Security+**, **eJPT** e **Microsoft SC-900**
 - ☁️ Certificado **Google Cloud** · **Google Workspace Admin**
