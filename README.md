@@ -72,8 +72,9 @@ Experiência sólida em suporte N1/N2, infraestrutura de redes, IAM (Active Dire
 
 ### 🚀 Projetos
 
-- **[Fã Site Cyberpunk TCG](https://github.com/thiaaagao)** — React.js · em andamento
+- **[Fã Site Cyberpunk TCG](https://github.com/thiaaagao)** — React.js
 - **[AsaTech TI Landing Page](https://github.com/thiaaagao)** — Vue.js + Vite
+- **[SIC - Seu Sistema de Chamado](https://github.com/thiaaagao/SIC-PHP)** - PHP + MySQL + ChartJS
 
 
 ---
